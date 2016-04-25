@@ -1,0 +1,1 @@
+Directorio para almacenamiento de logs.
